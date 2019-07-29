@@ -14,3 +14,6 @@
 
 ### List4.4 [Put If Absent ](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list4_13)
 在原有线程安全类上添加新的方法
+
+### List5.16[Memorizer](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list5_16)
+利用Future做计算缓存
