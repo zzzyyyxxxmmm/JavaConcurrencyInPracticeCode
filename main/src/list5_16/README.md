@@ -1,4 +1,4 @@
-### Listing5_16 Initial Cache Attempt Using HashMap and Synchronization.
+## Listing5_16 Initial Cache Attempt Using HashMap and Synchronization.
 
 先来看一下代码
 

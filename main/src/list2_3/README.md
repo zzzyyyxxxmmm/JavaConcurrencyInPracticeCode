@@ -1,4 +1,4 @@
-### Listing 1.1.Race Condition in Lazy Initialization. Don't Do this. 
+## Listing 1.1.Race Condition in Lazy Initialization. Don't Do this. 
 
 先来看一下代码（和原版代码有点区别）
 

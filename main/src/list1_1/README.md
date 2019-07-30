@@ -1,4 +1,4 @@
-### Listing 1.1. Non thread safe Sequence Generator
+## Listing 1.1. Non thread safe Sequence Generator
 
 先来看一下代码
 

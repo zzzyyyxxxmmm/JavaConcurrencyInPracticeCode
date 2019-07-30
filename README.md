@@ -12,8 +12,13 @@
 ### List4.4 [VehicleTracker](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list4_4)
 复合原子操作
 
-### List4.4 [Put If Absent ](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list4_13)
+### List4.4 [Put If Absent](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list4_13)
 在原有线程安全类上添加新的方法
 
 ### List5.16[Memorizer](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list5_16)
 利用Future做计算缓存
+
+### List6.10[Rendering Page Elements Sequentially](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list6_10)
+利用Future渲染
+
+请求超时操作
