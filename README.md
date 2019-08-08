@@ -22,3 +22,6 @@
 利用Future渲染
 
 请求超时操作
+
+### Chapter7 [Cancellation and Shutdown](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list7_1)
+如何正确的取消线程和关闭服务
