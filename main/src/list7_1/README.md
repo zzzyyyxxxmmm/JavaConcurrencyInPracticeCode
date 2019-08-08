@@ -269,6 +269,7 @@ public class LogWriter {
         }
     }
 }
+
 ```
 
 这段代码有两个问题：
