@@ -27,4 +27,4 @@
 如何正确的取消线程和关闭服务
 
 ### Chapter8 [Applying Thread Pools](https://github.com/zzzyyyxxxmmm/JavaConcurrencyInPracticeCode/tree/master/main/src/list8)
-如何正确的取消线程和关闭服务
+线程池的使用
